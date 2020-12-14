@@ -29,3 +29,10 @@
 
 - AppModule은 루트 모듈 
 - 모든게 AppModule 안에 들어가야 함
+
+- /:id 시 param(id)이름은 같아야함
+  - 변수는 달라도 됨
+
+- class-validator
+- class-transformer
+
