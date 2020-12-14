@@ -35,4 +35,8 @@
 
 - class-validator
 - class-transformer
+- partial-type
+- ❯ npm i @nestjs/swagger
 
+
+- app.module은 app service와 app controller만 가져야 함 
