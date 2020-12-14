@@ -40,3 +40,11 @@
 
 
 - app.module은 app service와 app controller만 가져야 함 
+- express 위에서 돌아가므로 필요하면 req res 사용 가능
+
+- 유닛 테스트 함수 하나
+- e2e 테스팅 페이지 통합 테스트
+  - 사용자 액션 전부 테스트
+- end2end 테스트
+- movies
+- movies/id
